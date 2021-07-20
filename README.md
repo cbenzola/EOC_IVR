@@ -28,16 +28,6 @@ Quick Breakdown of where the IVR variables are sent
 The newest versions of Python and PHP are reccommended for this project to run correctly. I also wanted 
 to highlight some of the important Python modules that are used in the scripts you will need. I have also created a requirements.txt file for reference, but you most likely will not need every one of those
 
-## PyMysql
-
-PyMysql is a python library that allows you to connect to a MySql database
-
-### Installation 
-
-``` bash
-pip install PyMySQL
-```
-
 ## dbfpy3
 
 ### Installastion
@@ -50,28 +40,6 @@ pip install dbfpy3
 
 I had some trouble getting this to work properly using pip, so that is why I just added the whole folder into the scripts directory instead
 
-
-## Watchdog
-
-### Installation
-
-```bash
-pip install watchdog
-```
-
-### Usage
-
-```bash
-monitor.py
-```
-
-## PyYAML
-
-### Installation
-
-```bash
-pip install PyYaml
-```
 
 ## PHP Files
 
