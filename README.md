@@ -43,7 +43,7 @@ pip install dbfpy3
 I had some trouble getting this to work properly using pip, so that is why I just added the whole folder into the scripts directory instead
 
 
-## PHP Files
+# PHP Files
 
 ## defines.php
 
@@ -75,7 +75,7 @@ This file is used to validate the date that the user entered is correct
 
 This file is used to scan the audio directory so the user can review future rides and cancel future rides.
 
-## Python Files
+# Python Files
 
 ## Defines.yml
 
