@@ -12,7 +12,7 @@ CONTENTS OF THIS FILE
 
 # Introduction
 
-I justed to wanted to provide a bit of a breakdown of this project, where files are located, the use of them and what is needed for this project.
+I just wanted to provide a bit of a breakdown of the EOC transport IVR, where files are located, the use of them and what is needed for this project.
 
 # Overview
 
