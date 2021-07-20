@@ -77,12 +77,6 @@ This file is used to scan the audio directory so the user can review future ride
 
 # Python Files
 
-## Defines.yml
-
-### Usage
-
-This is where we store our database credentials for out python files( Did not include it the repository for security purposes)
-
 ## Transact.py
 
 ### Usage
@@ -113,6 +107,12 @@ When a user is finished with their call, the audio is recorded and sent to our s
 When the audio is sent, upload.py uploads and renames the file to our audio directory
 
 # Additional Files
+
+## Defines.yml
+
+### Usage
+
+This is where we store our database credentials for our python files( Did not include it the repository for security purposes)
 
 ## Xml.xsd and Scan.xsd
 
