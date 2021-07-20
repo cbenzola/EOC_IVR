@@ -1,0 +1,5 @@
+dbfread==2.0.7
+watchdog==2.1.2
+dbfpy3
+PyMySQL==1.0.2
+PyYAML==5.3.1

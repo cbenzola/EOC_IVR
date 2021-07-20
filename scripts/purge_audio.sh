@@ -1,0 +1,2 @@
+#!/bin/bash
+find /var/www/html/eoc/audio -type f -name '*_[0-9][0-9]-[0-9][0-9]-[0-9][0-9][0-9][0-9]_[0-9][0-9]_[0-9][0-9].wav' -exec sh -c 'fdate="${1%_[0-9][0-9]_[0-9][0-9].wav}"; fdate="${fdate##*_}"; [ "$fdate" "<" "$(date  -d "0 days ago" "+%m-%d-%Y")" ] && rm "$1"' find-sh {} \;

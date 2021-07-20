@@ -1,0 +1,32 @@
+Traceback (most recent call last):
+  File "/var/www/html/eoc/scripts/maxride.py", line 10, in <module>
+    with open('scripts/defines.yml') as file:
+FileNotFoundError: [Errno 2] No such file or directory: 'scripts/defines.yml'
+Traceback (most recent call last):
+  File "/var/www/html/eoc/scripts/transact.py", line 10, in <module>
+    with open('scripts/defines.yml') as file:
+FileNotFoundError: [Errno 2] No such file or directory: 'scripts/defines.yml'
+Traceback (most recent call last):
+  File "/var/www/html/eoc/scripts/maxride.py", line 10, in <module>
+    with open('scripts/defines.yml') as file:
+FileNotFoundError: [Errno 2] No such file or directory: 'scripts/defines.yml'
+Traceback (most recent call last):
+  File "/var/www/html/eoc/scripts/transact.py", line 10, in <module>
+    with open('scripts/defines.yml') as file:
+FileNotFoundError: [Errno 2] No such file or directory: 'scripts/defines.yml'
+Traceback (most recent call last):
+  File "/var/www/html/eoc/scripts/maxride.py", line 10, in <module>
+    with open('scripts/defines.yml') as file:
+FileNotFoundError: [Errno 2] No such file or directory: 'scripts/defines.yml'
+Traceback (most recent call last):
+  File "/var/www/html/eoc/scripts/transact.py", line 10, in <module>
+    with open('scripts/defines.yml') as file:
+FileNotFoundError: [Errno 2] No such file or directory: 'scripts/defines.yml'
+Traceback (most recent call last):
+  File "/var/www/html/eoc/scripts/maxride.py", line 10, in <module>
+    with open('scripts/defines.yml') as file:
+FileNotFoundError: [Errno 2] No such file or directory: 'scripts/defines.yml'
+Traceback (most recent call last):
+  File "/var/www/html/eoc/scripts/transact.py", line 10, in <module>
+    with open('scripts/defines.yml') as file:
+FileNotFoundError: [Errno 2] No such file or directory: 'scripts/defines.yml'
