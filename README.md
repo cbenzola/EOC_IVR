@@ -30,6 +30,8 @@ to highlight some of the important Python modules that are used in the scripts y
 
 ## dbfpy3
 
+dbfpy3 is a python-only module for reading and writing DBF-files. This package allows us to transform the foxpro files into MySQL data.
+
 ### Installastion
 
 ```bash
