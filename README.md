@@ -47,7 +47,7 @@ I had some trouble getting this to work properly using pip, so that is why I jus
 
 ### Usage
 
-defines.php defines our database credentials to include in our other files to reduce redundancy and increase security
+defines.php defines our database credentials to include in our other files to reduce redundancy and increase security( Did not include it the repository for security purposes)
 
 ## Sv_eocs_result_count.php
 
@@ -79,7 +79,7 @@ This file is used to scan the audio directory so the user can review future ride
 
 ### Usage
 
-This is where we store our database credentials for out python files
+This is where we store our database credentials for out python files( Did not include it the repository for security purposes)
 
 ## Transact.py
 
