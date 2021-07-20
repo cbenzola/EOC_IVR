@@ -125,4 +125,4 @@ Every php file uses xml.xsd except for scan.php, which uses scan.xsd# Table of c
 
 ### Usage
 
-This file deletes the audio file the day after the user has taken their ride, based on the date in the file name.
+This file is used as a cron job and deletes the audio file the day after the user has taken their ride, based on the date in the file name. 
