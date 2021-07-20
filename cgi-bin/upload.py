@@ -3,7 +3,6 @@
 import cgi, cgitb, os, sys, requests
 import sys, urllib
 from datetime import date, datetime
-from pytz import timezone
 
 # This is the CGI script that uploads and renames the audio file to the server #
 
@@ -35,8 +34,7 @@ def save_uploaded_file():
     
     # The today variable grabs the current date and time #
     # But since we only care about getting the year and time, we will have today2 format it in yyyy_hour_minute format 
-    tz= timezone('EST')
-    today = datetime.now(tz)
+    today = datetime.now()
     today2 =today.strftime("%Y_%H_%M")
     
     
